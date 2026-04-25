@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://sasasakaz.github.io/bayesian_for_diff_of_prop_on_5groups/sitemap.xml
